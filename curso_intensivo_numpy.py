@@ -229,7 +229,4 @@ print(vector)
 print(vector[vector < 0.5]) # Me muestra un vector con el resultado de la comparación
 
 
-
-
-
-
+# Para saber más: https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
